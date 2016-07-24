@@ -11,3 +11,7 @@ node_modules
 # temporary files
 *.tmp
 *~
+
+# ignore ES5 generated files
+dist
+public/dist

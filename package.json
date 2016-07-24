@@ -1,0 +1,31 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "js tutorial npm init package.json file",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValyTGV/LJS.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "ValyTGV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValyTGV/LJS/issues"
+  },
+  "homepage": "https://github.com/ValyTGV/LJS#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-eslint": "^3.0.1"
+  }
+}
